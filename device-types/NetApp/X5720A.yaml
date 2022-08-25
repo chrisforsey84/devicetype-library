@@ -1,0 +1,20 @@
+---
+manufacturer: NetApp
+model: X5720A
+slug: x5720a
+part_number: 111-02850
+subdevice_role: child
+u_height: 0
+interfaces:
+  - name: SAS1
+    type: other
+    mgmt_only: false
+  - name: SAS2
+    type: other
+    mgmt_only: false
+  - name: SAS3
+    type: other
+    mgmt_only: false
+  - name: SAS4
+    type: other
+    mgmt_only: false
