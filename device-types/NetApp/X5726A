@@ -1,0 +1,10 @@
+---
+manufacturer: NetApp
+model: X5726A
+slug: x5726a
+part_number: 114-00148
+subdevice_role: child
+u_height: 0
+power-ports:
+  - name: PSU
+    type: iec-60320-c14
