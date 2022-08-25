@@ -1,0 +1,12 @@
+---
+manufacturer: NetApp
+model: DS224C-12
+slug: ds224c-12
+subdevice_role: parent
+u_height: 2
+is_full_depth: true
+module-bays:
+  - name: PSU1
+  - name: PSU2
+  - name: IOM A
+  - name: IOM B
