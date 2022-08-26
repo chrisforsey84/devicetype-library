@@ -1,0 +1,10 @@
+---
+manufacturer: NetApp
+model: FAS8300A
+slug: fas8300a
+u_height: 4
+is_full_depth: true
+subdevice_role: parent
+module-bays:
+  - name: Controller A
+  - name: Controller B
